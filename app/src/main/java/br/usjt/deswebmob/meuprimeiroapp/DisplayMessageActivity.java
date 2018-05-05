@@ -12,6 +12,9 @@ import android.widget.TextView;
  */
 public class DisplayMessageActivity extends Activity {
 
+    /*
+        Chamada do método onCreate quando instanciada.
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
