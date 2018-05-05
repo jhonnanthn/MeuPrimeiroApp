@@ -6,6 +6,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
+/*
+    Jhonnanthn William Carlos Balsas,
+    R.A.: 816119078
+ */
  public class MainActivity extends Activity {
      public static final String MENSAGEM = "br.usjt.deswebmob.meuprimeiroapp.mensagem";
 
